@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Montréal",
+  "short_name": "Casino de Montréal",
+  "theme_color": "",
+  "background_color": "#F2F2FE",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761121944-fav-removebg-preview.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
